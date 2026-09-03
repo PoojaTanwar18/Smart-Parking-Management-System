@@ -1,0 +1,48 @@
+## 🎯 Who Needs This System?
+
+The **Smart Parking Management System** is designed for organizations and businesses that manage parking facilities and need an efficient way to track parking slots, vehicles, entry/exit records, and parking utilization.
+
+### 🏢 Target Organizations
+
+* 🛍️ **Shopping Malls** – Manage large parking areas, vehicle movement, and slot availability.
+* 🏥 **Hospitals** – Manage parking for patients, visitors, doctors, and staff.
+* 🏢 **Corporate Offices** – Manage employee and visitor parking efficiently.
+* ✈️ **Airports & Railway Stations** – Handle high volumes of vehicles and monitor parking capacity.
+* 🏨 **Hotels & Resorts** – Manage guest, staff, and visitor parking.
+* 🎓 **Universities & Colleges** – Manage student, faculty, and visitor vehicles.
+* 🚗 **Paid Parking Operators** – Track parking sessions, duration, charges, and parking history.
+
+## 👤 End Users
+
+The primary users of the system include:
+
+* **Parking Managers** – Monitor and manage overall parking operations.
+* **Parking Attendants** – Record vehicle entry/exit and manage parking slots.
+* **Security Staff** – Verify vehicles and monitor parking activity.
+* **Administrators** – Manage parking lots, slots, vehicles, and records.
+* **Operations Managers** – Analyze parking utilization and generate reports.
+* **Database/System Administrators** – Maintain and manage the database.
+
+## 🚘 Customer / Ultimate User
+
+The **vehicle owner or driver** is the ultimate customer of the parking facility. However, the primary users of the database system are the parking staff, managers, and administrators.
+
+### 🔄 Example Workflow
+
+**Customer arrives → Vehicle details are recorded → Parking slot is assigned → Vehicle is parked → Entry/exit time is recorded → Parking record is updated → Parking availability is refreshed.**
+
+## 💡 Business Value
+
+The system helps organizations:
+
+* Reduce manual parking record management.
+* Track available and occupied parking slots.
+* Maintain accurate vehicle entry and exit records.
+* Monitor parking utilization.
+* Maintain historical parking data.
+* Generate useful operational reports.
+* Improve overall parking management and efficiency.
+
+### 🎯 Project Objective
+
+The objective of this project is to demonstrate how a **MySQL-based relational database system** can be used to solve a real-world parking management problem while applying practical concepts such as **database design, relationships, SQL queries, joins, constraints, aggregate functions, views, and data analysis**.
